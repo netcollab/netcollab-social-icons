@@ -18,7 +18,7 @@ Use social media icons on pages and posts in different designs and colors
 
 = About netcollab =
 We love wordpress and this plugin is a way to give back to wordpress community . 
-To know more about our work and projects, visit: <http://www.netcollab.in>
+To know more about our work and projects, visit our website: <http://www.netcollab.in>
 
 = Features =
 
